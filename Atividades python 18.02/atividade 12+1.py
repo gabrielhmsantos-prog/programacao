@@ -1,4 +1,4 @@
-numero= int(input("Digite o número: "))
+numero= int(input("Digite o número: ")) 
 centena = numero / 100
 dezena = numero / 10
 unidade = numero
